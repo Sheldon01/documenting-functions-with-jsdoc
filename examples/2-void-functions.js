@@ -1,4 +1,3 @@
-
 /**
  * Mutates an array of strings by adding in a given string twice.
  * @param {string[]} arrOfStrings - the existing array of strings
